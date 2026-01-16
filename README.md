@@ -9,7 +9,7 @@ I am an Electrical and Electronics Engineering graduate with experience in switc
 
 ## Projects
 - [Stairs Recognition System – Final Project](Stairs_Recognition_System.md)  
-- Multi-Cycle MIPS Processor (VHDL)  
+- [Multi-Cycle MIPS Processor (VHDL)](MIPS_Multi_Cycle_Processor.md)
 - Water Level Control System  
 - FPGA Variance Calculator  
 - Arduino Robotic Arm  
