@@ -1,7 +1,6 @@
 # Christian Haddad  
 **Electrical & Electronics Engineering Graduate**  
-Haifa, Israel  
-📧 Christian.Na.Haddad@gmail.com | 📞 052-622-4603  
+📧 Christian.Na.Haddad@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/christian-haddad-03471a226)
 
 ---
@@ -40,8 +39,3 @@ Embedded Systems, Microcontrollers, Microprocessors, DSP, Computer Architecture,
 
 **Haddad Switchboards Electrical Engineering Ltd.** — 2017–Present  
 Electrical switchboard design, assembly, wiring, schematic creation, and testing.
-
----
-
-## Languages  
-Arabic (Native) | English (Fluent) | Hebrew (Fluent)
