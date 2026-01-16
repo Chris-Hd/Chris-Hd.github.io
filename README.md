@@ -12,8 +12,7 @@ I am an Electrical and Electronics Engineering graduate with experience in switc
 - [Multi-Cycle MIPS Processor (VHDL)](MIPS_Multi_Cycle_Processor.md)
 - [Water Level Control System](Water_Level_Control_System.md) 
 - [FPGA Variance Calculator](FPGA_Variance_Calculator.md)  
-- Arduino Robotic Arm  
-- Electrical Switchboard Design & Testing  
+- [Arduino Robotic Arm](Arduino_Robotic_Arm.md)  
 
 ## Contact
 Email: Christian.Na.Haddad@gmail.com
