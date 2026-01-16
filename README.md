@@ -1,6 +1,6 @@
 # Christian Haddad  
 **Electrical & Electronics Engineering Graduate**  
-📧 Christian.Na.Haddad@gmail.com  
+📧 [Email](Christian.Na.Haddad@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/christian-haddad-03471a226)
 
 ---
